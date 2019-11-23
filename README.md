@@ -13,7 +13,7 @@ Project the architecture of Components/Layout/Base where all variables and class
 
 ## Contributing
 
-Contributs an knowledge and also beautiful layout of fake company ;")"
+Contributs an knowledge and also beautiful layout of fake company ;)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
