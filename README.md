@@ -1,19 +1,11 @@
-# Trillo
+# trillo
 
-Trillo is a landing-page layout built in Sass on flex-box to master dev-skill.
+trillo is a layout built in sass with flex-box properties to master dev-skill.
 
 ## Installation
 
-Use the npm package to makes scripts in json file. npm install all
+Install node.js on your local computer. After that, download project in .zip file and unpack it. Open terminal and install npm package in main folder. If got it done than run script: start by command (npm run). If after that command you've got an error try this solution in terminal: npm cache clean --force and after that fallow from sentence open terminal that script will let you have compatiblie files.
 
+## Allowing
 
-## Usage
-
-Project the architecture of Components/Layout/Base where all variables and class are to make code reusable and ofcourse main where the code is included.
-
-## Contributing
-
-Contributs an knowledge and also beautiful layout of fake company ;)
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+Allowed to get inspire by that layout
